@@ -1,0 +1,24 @@
+.subject{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+}
+.subject img{
+    height: 180px;
+}
+.subject-courseName{
+    color: black;
+    padding-left: 20px;
+    
+}
+.main-button{
+    background-color: lightgray;
+    width: 100px;
+    height:30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
